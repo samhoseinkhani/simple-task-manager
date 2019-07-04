@@ -1,0 +1,9 @@
+.AppHeaderNewTaskButton {
+    border-radius: 70px;
+    padding-right: 1.2em;
+    padding-left: 1.2em;
+    -webkit-box-shadow: 3px 5px 12px rgba(0, 0, 0, .2);
+    box-shadow:  3px 5px 12px rgba(0, 0, 0, .2);font-size: 1.2rem;
+    border: 0px solid transparent;
+
+}

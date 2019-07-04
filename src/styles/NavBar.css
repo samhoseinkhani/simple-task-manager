@@ -1,0 +1,25 @@
+.AppHeader__component{
+    height: 64px;
+    padding: 14px 30px 14px 30px;
+    position: fixed;
+}
+.AppHeader__controls {
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+}
+.AppHeader__controls--start {
+    justify-content: flex-start
+}
+.AppHeader__controls--end {
+    justify-content: flex-end
+}
+.Spacing {
+    margin-right: 30px;
+}
+.Icons__style {
+    color: #808080;
+}
+.Btn__outline{
+    outline: 0 !important;
+}
